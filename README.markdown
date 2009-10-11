@@ -6,10 +6,10 @@ Special thanks go to [Eric Meyer](http://meyerweb.com/eric/ "Eric Meyer's Websit
 
 ## Changes ##
 
-# Sass
-# Dashes instead of underscores
-# Spaces instead of tabs
-# Organized for readability
+* Sass
+* Dashes instead of underscores
+* Spaces instead of tabs
+* Organized for readability
 
 ## References ##
 * [http://meyerweb.com/eric/tools/css/reset/](http://meyerweb.com/eric/tools/css/reset/)
